@@ -13,6 +13,7 @@ disable_toc: 1
 </div>
 
 <div id="editor_area">
+    
     <div class="player-wrapper">
         <div class="alpha_checkered" id="lottie_target"></div>
         <div class="playback-controls">
